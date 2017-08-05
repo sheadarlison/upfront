@@ -301,7 +301,7 @@ header {
 /* Hero Styles */
 
 .hero {
-	height: 40vh;
+	height: 35vh;
 	display: inline-block;
 	background: #A3F0FF;
 }
@@ -325,7 +325,7 @@ header {
 }
 
 .hero-left button {
-	margin: 30px 15px 0 0;
+	margin: 15px 15px 0 0;
 	width: 150px;
 	font-size: 18px;
 	padding: 8px;
